@@ -10,6 +10,7 @@ namespace FirsrDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
         }
     }
 }
